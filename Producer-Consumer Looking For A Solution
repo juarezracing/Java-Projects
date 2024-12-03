@@ -1,0 +1,14 @@
+/*
+ENUNCIADO
+
+Producer 
+  -> 15 chars.
+  -> Genera los chars y los almacena en la cola/buffer compartido.
+  
+Consumer
+  -> Lee 15 chars de la cola/buffer.
+
+Queue/Buffer
+  -> Almacena hasta 6 chars.
+
+*/
